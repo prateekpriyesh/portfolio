@@ -10,7 +10,7 @@ export const Bio = {
     "Dedicated and highly skilled Full Stack Developer with a strong foundation in web development, specializing in React and Node.js technologies. My proficiency in leveraging RESTful APIs, combined with expertise in MongoDB and PostgreSQL databases, has resulted in the successful delivery of high-performance web applications. ",
   github: "https://github.com/prateekpriyesh",
   resume:
-    "https://drive.google.com/file/d/1TWLn-wxfk0TREX7qNPolADE57lDDaGme/view?usp=sharing",
+    "https://drive.google.com/file/d/1jtOTAwTDX5A4Iu59NT6zhlMRgnkcbq3z/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/prateekpriyesh",
   twitter: "https://twitter.com/prateekpriyesh1",
   insta: "https://www.instagram.com/prateekpriyesh/",
@@ -461,3 +461,4 @@ export const TimeLineData = [
   { year: 2020, text: "Shared my projects with the world" },
   { year: 2021, text: "Started my own platform" }
 ];
+
